@@ -1,0 +1,27 @@
+[
+    {
+        "transactionName": "WebTourConnection",
+        "rawStartTime": 1631183463539,
+        "rawEndTime": 1631183463803
+    },
+    {
+        "transactionName": "Login",
+        "rawStartTime": 1631183463911,
+        "rawEndTime": 1631183464174
+    },
+    {
+        "transactionName": "Itinerary",
+        "rawStartTime": 1631183464284,
+        "rawEndTime": 1631183464631
+    },
+    {
+        "transactionName": "delete_tickets",
+        "rawStartTime": 1631183464724,
+        "rawEndTime": 1631183464924
+    },
+    {
+        "transactionName": "05050_Delete",
+        "rawStartTime": 1631183463493,
+        "rawEndTime": 1631183465016
+    }
+]

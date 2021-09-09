@@ -1,0 +1,27 @@
+[
+    {
+        "transactionName": "WebTourConnection",
+        "rawStartTime": 1631136561059,
+        "rawEndTime": 1631136561290
+    },
+    {
+        "transactionName": "PressSignup",
+        "rawStartTime": 1631136561382,
+        "rawEndTime": 1631136561572
+    },
+    {
+        "transactionName": "Signup",
+        "rawStartTime": 1631136561668,
+        "rawEndTime": 1631136561934
+    },
+    {
+        "transactionName": "PressNext",
+        "rawStartTime": 1631136562028,
+        "rawEndTime": 1631136562234
+    },
+    {
+        "transactionName": "0202_SignUp",
+        "rawStartTime": 1631136561010,
+        "rawEndTime": 1631136562298
+    }
+]
